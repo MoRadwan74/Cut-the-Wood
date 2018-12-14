@@ -15,4 +15,4 @@ Team Members:
 - **Amr Atia**
 #### You can watch a live demo [here].
 [here]: https://youtu.be/7U6RFbefhgY
-**Note:** Further improvements will be added.
+**Note:** Further improvements will be applied.
