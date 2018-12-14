@@ -9,10 +9,10 @@ During the game you must throw all of your knives into a rotating board, you can
 * Use left mouse button to throw the knife.
 ### SO, Test your reactions and keep it Fast !
 
-#### Team Members:
-- Mohamed Radwan
-- Mohamed Emad 
-- Amr Atia
+Team Members:
+- **Mohamed Radwan**
+- **Mohamed Emad** 
+- **Amr Atia**
 #### You can watch a live demo [here].
 [here]: https://youtu.be/7U6RFbefhgY
 **Note:** Further improvements will be added.
