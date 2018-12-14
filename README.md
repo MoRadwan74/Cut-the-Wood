@@ -17,4 +17,4 @@ Team Members:
 [here]: https://youtu.be/7U6RFbefhgY
 **Notes:**
 - Further improvements will be applied.
-- Source code file is the one to be opened and edited in unity.
+- Source code will be added shortly.
