@@ -7,7 +7,7 @@ Knife Hit is a fun game of reflexes and skills in which you must show off your k
 During the game you must throw all of your knives into a rotating board, you cannot hit any other knives or any other object that is attached to the spinning board or you'll lose.
 
 * Use left mouse button to throw the knife.
-### SO, Test your reactions and keep it Fast !
+### So, Test your reactions and keep it Fast !
 ---
 Team Members:
 - **Mohamed Radwan**
