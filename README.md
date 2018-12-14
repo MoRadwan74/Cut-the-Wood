@@ -15,4 +15,6 @@ Team Members:
 - **Amr Atia**
 #### You can watch a live demo [here].
 [here]: https://youtu.be/7U6RFbefhgY
-**Note:** Further improvements will be applied.
+**Notes:**
+1- Further improvements will be applied.
+2- Source code file is the one to be opened and edited in unity.
